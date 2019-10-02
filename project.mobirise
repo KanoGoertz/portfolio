@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kano Portfolio",
-    "currentPage": "Home.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1633,7 +1633,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "Born and raised in the Cape Town and constantly surrounded by beauty, <br>I always knew I would never be able to work in a suit and tie crunching <br>numbers all day. So... For me the only other option was to become a\ncreative.\n<br><br>\nI consider myself multimedia designer who is hardworking, reliable<br>and loyal to the bone - I have a passion for videography, film and\nstory telling.<br>I like to think that I don’t process thoughts the way\nmost people do and<br>with saying that, the mind truly does fascinate\nme. I’ve always been<br>interested in becoming a psychologist -\nThat’s why I love producing work which evokes emotions\nwithin my audience. If my work didnt make them feel\nhappy, sad, uneasy,<br>motivated, or just some sort of\nstrong emotion in general, then I consider my work\npointless.<br><br>I never see my work as perfect, and I don’t think it\never will be. Though I know that’s what’s going to\npush me to do my best and be my best. But right\nnow I’m the best I can be, and the more I grow\nthe more my talent will grow.",
+          "text": "Born and raised in the Cape Town and constantly surrounded by beauty, I always knew<br>I would never be able to work in a suit and tie crunching numbers all day.<br>So... For me, the only other option was to become a\ncreative.\n<br><br>\nI consider myself a multimedia designer who is hardworking, reliable,\nand loyal<br>to the bone - I have a passion for videography, film, and\nstorytelling. I like to think<br>that I don’t process thoughts the way\nmost people do, and with saying that, the mind<br>truly does fascinate\nme. I’ve always been interested in becoming a psychologist -\n<br>That’s why I love producing work which evokes emotions\nwithin my audience.<br>If my work didn’t make them feel\nhappy, sad, uneasy, motivated, or just some sort of\nstrong emotion in general, then I consider my work\npointless.<br><br>I never see my work as perfect, and I don’t think it\never will be. Though I know, that’s what’s going to\npush me to do my best and be my best. But right\nnow I’m the best I can be, and the more I grow,\nthe more my talent will grow.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1665,7 +1665,7 @@
           },
           "title": "DOWNLOAD RESUME",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"assets/files/CV.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"assets/files/CV%20updated.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
